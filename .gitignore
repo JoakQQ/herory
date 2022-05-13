@@ -1,0 +1,13 @@
+# datasets folder
+# datasets
+
+# saves
+saves
+
+# pycache
+herory/__pycache__
+herory/data/__pycache__
+herory/model/__pycache__
+
+
+**/.ipynb_checkpoints
